@@ -1,5 +1,5 @@
 ///problema #2902 pbinfo
-
+/// https://www.pbinfo.ro/articole/5615/sume-partiale-in-tablouri
 #include <iostream>
 
 using namespace std;
